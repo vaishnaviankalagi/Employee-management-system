@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3804b8d0-3602-4ca1-abb2-3c5ec9bda0bd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jHRFnh86ERGi2v7EYLCeJuASGy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Splash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdateEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.View_Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.employee.management.system.AddEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vaish/Downloads/ResultSet2xml.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vaish/employee management system/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Splash">
+    <configuration name="RemoveEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.RemoveEmployee" />
+      <module name="employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Splash" />
+      <module name="employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.UpdateEmployee" />
+      <module name="employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View_Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.View_Employee" />
+      <module name="employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="employee.management.system.AddEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.AddEmployee" />
+      <module name="employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Splash" />
+        <item itemvalue="Application.UpdateEmployee" />
+        <item itemvalue="Application.RemoveEmployee" />
+        <item itemvalue="Application.View_Employee" />
+        <item itemvalue="Application.employee.management.system.AddEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3804b8d0-3602-4ca1-abb2-3c5ec9bda0bd" name="Changes" comment="" />
+      <created>1721041918104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721041918104</updated>
+      <workItem from="1721041919217" duration="4591000" />
+      <workItem from="1721059279710" duration="3575000" />
+      <workItem from="1721114211682" duration="4977000" />
+      <workItem from="1721120189397" duration="318000" />
+      <workItem from="1721139510601" duration="415000" />
+      <workItem from="1721218019341" duration="326000" />
+      <workItem from="1721623870115" duration="359000" />
+      <workItem from="1721798377830" duration="643000" />
+      <workItem from="1721818945419" duration="387000" />
+      <workItem from="1721824014456" duration="67000" />
+      <workItem from="1721831177577" duration="370000" />
+      <workItem from="1721887039396" duration="4381000" />
+      <workItem from="1721909031931" duration="831000" />
+      <workItem from="1721911878193" duration="1273000" />
+      <workItem from="1721966210096" duration="3414000" />
+      <workItem from="1722058830612" duration="493000" />
+      <workItem from="1722179199652" duration="493000" />
+      <workItem from="1726033003341" duration="83000" />
+      <workItem from="1726033106959" duration="38000" />
+      <workItem from="1726929105025" duration="561000" />
+      <workItem from="1726929982919" duration="167000" />
+      <workItem from="1763964914747" duration="27000" />
+      <workItem from="1763964988638" duration="208000" />
+      <workItem from="1764057818742" duration="13000" />
+      <workItem from="1764057963054" duration="412000" />
+      <workItem from="1764058451605" duration="2930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
